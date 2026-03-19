@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GameRaja – Gaming Directory</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ================= HEADER ================= -->
+<div class="app-header">
+  <button class="menu-btn" onclick="toggleDrawer()">☰</button>
+  <div>🎮 GameRaja</div>
+</div>
+
+<!-- ================= DRAWER ================= -->
+<div class="drawer" id="drawer">
+
+  <!-- BACK BUTTON -->
+  <a href="javascript:history.back()">← Back</a>
+
+  <a href="index.html">🏠 Home</a>
+
+  <a href="category.html?type=casual">🎮 Casual Games</a>
+  <a href="category.html?type=arcade">🕹 Arcade & Retro</a>
+  <a href="category.html?type=esports">⚔️ eSports</a>
+  <a href="category.html?type=tournaments">🏆 Tournaments</a>
+  <a href="category.html?type=fantasy">💰 Fantasy Gaming</a>
+  <a href="category.html?type=web3">⛓ Web3 Games</a>
+  <a href="category.html?type=nft">🖼 NFT Games</a>
+  <a href="category.html?type=metaverse">🌐 Metaverse</a>
+  <a href="category.html?type=kids">🧒 Kids Safe Games</a>
+  <a href="category.html?type=streaming">📺 Streaming</a>
+
+</div>
+
+<div class="drawer-overlay" id="overlay" onclick="closeDrawer()"></div>
+
+<!-- ================= MAIN ================= -->
+<div class="main-content">
+
+  <!-- INTRO -->
+  <div class="glass-card">
+    <div class="card-title">Gaming Ecosystem</div>
+
+    <div class="card-desc">
+      Discover Web2 games, Web3 platforms, NFT games, fantasy sports, tournaments and competitive gaming communities across one structured digital ecosystem.
+    </div>
+  </div>
+
+  <!-- CATEGORY GRID -->
+  <div class="grid">
+
+    <a href="category.html?type=casual" class="category-box">
+      <span>🎮</span>
+      Casual Games
+    </a>
+
+    <a href="category.html?type=arcade" class="category-box">
+      <span>🕹</span>
+      Arcade & Retro
+    </a>
+
+    <a href="category.html?type=esports" class="category-box">
+      <span>⚔️</span>
+      eSports
+    </a>
+
+    <a href="category.html?type=tournaments" class="category-box">
+      <span>🏆</span>
+      Tournaments
+    </a>
+
+    <a href="category.html?type=fantasy" class="category-box">
+      <span>💰</span>
+      Fantasy Gaming
+    </a>
+
+    <a href="category.html?type=web3" class="category-box">
+      <span>⛓</span>
+      Web3 Games
+    </a>
+
+    <a href="category.html?type=nft" class="category-box">
+      <span>🖼</span>
+      NFT Games
+    </a>
+
+    <a href="category.html?type=metaverse" class="category-box">
+      <span>🌐</span>
+      Metaverse
+    </a>
+
+    <a href="category.html?type=kids" class="category-box">
+      <span>🧒</span>
+      Kids Safe Games
+    </a>
+
+    <a href="category.html?type=streaming" class="category-box">
+      <span>📺</span>
+      Streaming
+    </a>
+
+  </div>
+
+</div>
+
+<!-- ================= BOTTOM NAV ================= -->
+<div class="bottom-nav">
+
+  <a href="https://qbank.nftraja.com/" target="_blank" class="bottom-item">
+    <span>📘</span>
+    QBank
+  </a>
+
+  <a href="https://tool.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🛠</span>
+    ToolRaja
+  </a>
+
+  <a href="https://www.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🌐</span>
+    NFTRaja
+  </a>
+
+  <a href="https://kidverse.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🧒</span>
+    KidVerse
+  </a>
+
+</div>
+
+<!-- ================= JS ================= -->
+<script src="app.js"></script>
+
+</body>
+</html>
