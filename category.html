@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GameRaja – Category</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ================= HEADER ================= -->
+<div class="app-header">
+  <button class="menu-btn" onclick="toggleDrawer()">☰</button>
+  <div id="pageTitle">🎮 GameRaja</div>
+</div>
+
+<!-- ================= DRAWER ================= -->
+<div class="drawer" id="drawer">
+
+  <!-- BACK BUTTON -->
+  <a href="javascript:history.back()">← Back</a>
+
+  <a href="index.html">🏠 Home</a>
+
+  <a href="category.html?type=casual">🎮 Casual Games</a>
+  <a href="category.html?type=arcade">🕹 Arcade & Retro</a>
+  <a href="category.html?type=esports">⚔️ eSports</a>
+  <a href="category.html?type=tournaments">🏆 Tournaments</a>
+  <a href="category.html?type=fantasy">💰 Fantasy Gaming</a>
+  <a href="category.html?type=web3">⛓ Web3 Games</a>
+  <a href="category.html?type=nft">🖼 NFT Games</a>
+  <a href="category.html?type=metaverse">🌐 Metaverse</a>
+  <a href="category.html?type=kids">🧒 Kids Safe Games</a>
+  <a href="category.html?type=streaming">📺 Streaming</a>
+
+</div>
+
+<div class="drawer-overlay" id="overlay" onclick="closeDrawer()"></div>
+
+<!-- ================= MAIN ================= -->
+<div class="main-content">
+
+  <!-- CATEGORY INFO -->
+  <div class="glass-card">
+    <div class="card-title" id="categoryTitle">Category</div>
+
+    <div class="card-desc" id="categoryDesc">
+      Loading category description...
+    </div>
+  </div>
+
+  <!-- PLATFORM LIST -->
+  <div id="platformContainer"></div>
+
+</div>
+
+<!-- ================= BOTTOM NAV ================= -->
+<div class="bottom-nav">
+
+  <a href="https://qbank.nftraja.com/" target="_blank" class="bottom-item">
+    <span>📘</span>
+    QBank
+  </a>
+
+  <a href="https://tool.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🛠</span>
+    ToolRaja
+  </a>
+
+  <a href="https://www.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🌐</span>
+    NFTRaja
+  </a>
+
+  <a href="https://kidverse.nftraja.com/" target="_blank" class="bottom-item">
+    <span>🧒</span>
+    KidVerse
+  </a>
+
+</div>
+
+<!-- ================= JS ================= -->
+<script src="app.js"></script>
+
+</body>
+</html>
