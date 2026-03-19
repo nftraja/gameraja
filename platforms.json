@@ -213,3 +213,1940 @@
 "description":"Fantasy sports gaming platform offering contests, leaderboards and real time gameplay based on sports performance analytics.",
 "url":"https://vision11.in"
 },
+{
+"id":31,
+"name":"Axie Infinity",
+"category":"web3",
+"description":"Blockchain based play to earn game where players collect, breed and battle digital creatures while earning crypto rewards within a decentralized gaming ecosystem.",
+"url":"https://axieinfinity.com"
+},
+{
+"id":32,
+"name":"The Sandbox",
+"category":"web3",
+"description":"Virtual world platform allowing players to create, own and monetize gaming experiences using blockchain based assets and digital land ownership.",
+"url":"https://www.sandbox.game"
+},
+{
+"id":33,
+"name":"Decentraland",
+"category":"web3",
+"description":"Decentralized virtual world where users explore, build and interact while owning digital assets and participating in blockchain driven economies.",
+"url":"https://decentraland.org"
+},
+{
+"id":34,
+"name":"Illuvium",
+"category":"web3",
+"description":"Open world RPG blockchain game featuring collectible creatures, immersive gameplay and decentralized asset ownership through NFTs.",
+"url":"https://illuvium.io"
+},
+{
+"id":35,
+"name":"Splinterlands",
+"category":"web3",
+"description":"Blockchain based card game allowing players to collect cards, battle opponents and earn digital rewards through strategic gameplay.",
+"url":"https://splinterlands.com"
+},
+
+{
+"id":36,
+"name":"Gods Unchained",
+"category":"nft",
+"description":"Competitive NFT card game where players truly own in game assets and compete using strategic deck building and gameplay mechanics.",
+"url":"https://godsunchained.com"
+},
+{
+"id":37,
+"name":"Sorare",
+"category":"nft",
+"description":"Fantasy football NFT platform combining real world sports data with digital player cards for competitive gameplay and trading.",
+"url":"https://sorare.com"
+},
+{
+"id":38,
+"name":"Alien Worlds",
+"category":"nft",
+"description":"NFT based metaverse game where players mine resources, stake assets and participate in decentralized planetary governance.",
+"url":"https://alienworlds.io"
+},
+{
+"id":39,
+"name":"CryptoKitties",
+"category":"nft",
+"description":"One of the earliest NFT games allowing users to collect, breed and trade unique digital cats on blockchain networks.",
+"url":"https://www.cryptokitties.co"
+},
+{
+"id":40,
+"name":"Zed Run",
+"category":"nft",
+"description":"Digital horse racing game where players own, breed and race NFT horses in a competitive blockchain powered environment.",
+"url":"https://zed.run"
+},
+
+{
+"id":41,
+"name":"Roblox",
+"category":"metaverse",
+"description":"User generated virtual world platform where players create, explore and interact in millions of immersive gaming experiences.",
+"url":"https://www.roblox.com"
+},
+{
+"id":42,
+"name":"Fortnite Creative",
+"category":"metaverse",
+"description":"Creative mode within Fortnite allowing players to build worlds, design games and engage in social gaming experiences.",
+"url":"https://www.fortnite.com"
+},
+{
+"id":43,
+"name":"Rec Room",
+"category":"metaverse",
+"description":"Social virtual reality platform offering multiplayer games, community created experiences and interactive virtual environments.",
+"url":"https://recroom.com"
+},
+{
+"id":44,
+"name":"VRChat",
+"category":"metaverse",
+"description":"Virtual social platform where users interact using avatars, explore worlds and participate in immersive experiences.",
+"url":"https://hello.vrchat.com"
+},
+{
+"id":45,
+"name":"Spatial",
+"category":"metaverse",
+"description":"Virtual collaboration and metaverse platform enabling social interaction, gaming experiences and digital space exploration.",
+"url":"https://spatial.io"
+},
+
+{
+"id":46,
+"name":"PBS Kids Games",
+"category":"kids",
+"description":"Educational gaming platform offering safe and engaging games designed for children focusing on learning and creativity.",
+"url":"https://pbskids.org/games"
+},
+{
+"id":47,
+"name":"Nick Jr Games",
+"category":"kids",
+"description":"Kids entertainment platform featuring safe games based on popular characters with educational and fun activities.",
+"url":"https://www.nickjr.com/games"
+},
+{
+"id":48,
+"name":"Cartoon Network Games",
+"category":"kids",
+"description":"Online gaming platform offering child friendly games based on animated shows with fun and interactive gameplay.",
+"url":"https://www.cartoonnetwork.com/games"
+},
+{
+"id":49,
+"name":"Funbrain",
+"category":"kids",
+"description":"Educational game website combining learning and entertainment through puzzles, reading games and interactive activities.",
+"url":"https://www.funbrain.com"
+},
+{
+"id":50,
+"name":"ABCya",
+"category":"kids",
+"description":"Learning focused gaming platform offering educational games for children covering math, reading and logic skills.",
+"url":"https://www.abcya.com"
+},
+
+{
+"id":51,
+"name":"Twitch",
+"category":"streaming",
+"description":"Live streaming platform focused on gaming content where users watch gameplay, interact with streamers and explore gaming communities.",
+"url":"https://www.twitch.tv"
+},
+{
+"id":52,
+"name":"YouTube Gaming",
+"category":"streaming",
+"description":"Gaming focused section of YouTube offering live streams, recorded gameplay and gaming related content for global audiences.",
+"url":"https://www.youtube.com/gaming"
+},
+{
+"id":53,
+"name":"Kick",
+"category":"streaming",
+"description":"Emerging live streaming platform supporting gaming creators with community engagement and monetization opportunities.",
+"url":"https://kick.com"
+},
+{
+"id":54,
+"name":"Facebook Gaming",
+"category":"streaming",
+"description":"Gaming streaming platform integrated within Facebook offering live streams, communities and interactive content.",
+"url":"https://www.facebook.com/gaming"
+},
+{
+"id":55,
+"name":"Trovo",
+"category":"streaming",
+"description":"Live streaming platform focused on gaming communities offering content discovery and interactive viewer engagement features.",
+"url":"https://trovo.live"
+},
+
+{
+"id":56,
+"name":"Steam",
+"category":"casual",
+"description":"Digital distribution platform offering thousands of games including casual, indie and AAA titles with community and multiplayer features.",
+"url":"https://store.steampowered.com"
+},
+{
+"id":57,
+"name":"Epic Games",
+"category":"casual",
+"description":"Gaming platform providing free and premium games along with launcher services and online multiplayer experiences.",
+"url":"https://www.epicgames.com"
+},
+{
+"id":58,
+"name":"Origin EA",
+"category":"casual",
+"description":"Gaming platform by Electronic Arts offering a collection of games including casual and competitive titles with online features.",
+"url":"https://www.origin.com"
+},
+{
+"id":59,
+"name":"Itch.io",
+"category":"casual",
+"description":"Indie game marketplace offering unique and experimental games created by independent developers across multiple genres.",
+"url":"https://itch.io"
+},
+{
+"id":60,
+"name":"GOG",
+"category":"casual",
+"description":"Digital gaming platform offering DRM free games including classic and modern titles for a wide range of players.",
+"url":"https://www.gog.com"
+},
+
+{
+"id":61,
+"name":"Crazy Monkey Games",
+"category":"arcade",
+"description":"Online arcade gaming platform featuring classic flash style games and retro inspired gameplay experiences accessible directly through browser.",
+"url":"https://www.crazymonkeygames.com"
+},
+{
+"id":62,
+"name":"Free80sArcade",
+"category":"arcade",
+"description":"Retro gaming website offering classic 80s arcade games playable online preserving vintage gaming experiences and nostalgic titles.",
+"url":"https://www.free80sarcade.com"
+},
+{
+"id":63,
+"name":"Old Gameshelf",
+"category":"arcade",
+"description":"Classic game library providing access to retro arcade and DOS based games playable through modern browser emulation systems.",
+"url":"https://oldgameshelf.com"
+},
+{
+"id":64,
+"name":"MyEmulator",
+"category":"arcade",
+"description":"Online emulator platform allowing users to play retro console and arcade games directly in browser with classic gameplay experience.",
+"url":"https://www.myemulator.online"
+},
+{
+"id":65,
+"name":"PlayClassic",
+"category":"arcade",
+"description":"Retro gaming archive offering a wide collection of classic games with browser based emulation for nostalgic gameplay.",
+"url":"https://playclassic.games"
+},
+
+{
+"id":66,
+"name":"Skillz",
+"category":"esports",
+"description":"Mobile competitive gaming platform enabling players to participate in skill based competitions and earn rewards through tournaments.",
+"url":"https://www.skillz.com"
+},
+{
+"id":67,
+"name":"WorldGaming",
+"category":"esports",
+"description":"Competitive gaming platform offering tournaments, ladders and ranked gameplay experiences for global players across multiple titles.",
+"url":"https://worldgaming.com"
+},
+{
+"id":68,
+"name":"CMG (Checkmate Gaming)",
+"category":"esports",
+"description":"eSports competition platform enabling players to compete in matches, tournaments and wager based gaming contests.",
+"url":"https://www.checkmategaming.com"
+},
+{
+"id":69,
+"name":"Players Lounge",
+"category":"esports",
+"description":"Skill based gaming platform offering competitive matches and tournaments with real money rewards and ranking systems.",
+"url":"https://www.playerslounge.co"
+},
+{
+"id":70,
+"name":"GameBattles",
+"category":"esports",
+"description":"Competitive gaming ladder system allowing players to join tournaments, track rankings and participate in organized matches.",
+"url":"https://gamebattles.majorleaguegaming.com"
+},
+
+{
+"id":71,
+"name":"GamerzArena",
+"category":"tournaments",
+"description":"Tournament platform offering skill based competitions and rewards for players participating in mobile and online gaming contests.",
+"url":"https://gamerzarena.com"
+},
+{
+"id":72,
+"name":"PvP.com",
+"category":"tournaments",
+"description":"Competitive gaming platform hosting tournaments, challenges and reward based competitions across various gaming genres.",
+"url":"https://pvp.com"
+},
+{
+"id":73,
+"name":"NiceHash Gaming",
+"category":"tournaments",
+"description":"Gaming competition platform combining blockchain rewards with tournament based competitive gameplay experiences.",
+"url":"https://www.nicehash.com"
+},
+{
+"id":74,
+"name":"Matcherino",
+"category":"tournaments",
+"description":"Crowdfunding and tournament platform supporting competitive gaming events with prize pools and community engagement.",
+"url":"https://matcherino.com"
+},
+{
+"id":75,
+"name":"Community Gaming",
+"category":"tournaments",
+"description":"eSports tournament platform focused on community driven competitions with easy onboarding and blockchain based rewards.",
+"url":"https://www.communitygaming.io"
+},
+
+{
+"id":76,
+"name":"BalleBaazi",
+"category":"fantasy",
+"description":"Fantasy sports platform offering cricket based contests, team creation and real time competition based on match performances.",
+"url":"https://www.ballebaazi.com"
+},
+{
+"id":77,
+"name":"Halaplay",
+"category":"fantasy",
+"description":"Fantasy gaming platform allowing users to participate in sports contests and earn rewards through team performance.",
+"url":"https://www.halaplay.com"
+},
+{
+"id":78,
+"name":"PlayerzPot",
+"category":"fantasy",
+"description":"Fantasy sports application providing contests across cricket and other sports with real time gameplay and rewards.",
+"url":"https://www.playerzpot.com"
+},
+{
+"id":79,
+"name":"MyFab11",
+"category":"fantasy",
+"description":"Fantasy sports gaming platform offering cricket contests and leaderboards based on real match statistics.",
+"url":"https://myfab11.com"
+},
+{
+"id":80,
+"name":"Gamezy",
+"category":"fantasy",
+"description":"Fantasy gaming platform combining sports contests and casual games with reward based competitive systems.",
+"url":"https://www.gamezy.com"
+},
+
+{
+"id":81,
+"name":"Upland",
+"category":"web3",
+"description":"Blockchain based virtual property trading game allowing users to buy, sell and trade digital real estate assets.",
+"url":"https://www.upland.me"
+},
+{
+"id":82,
+"name":"Big Time",
+"category":"web3",
+"description":"Multiplayer action RPG combining fast paced gameplay with blockchain based asset ownership and in game economy systems.",
+"url":"https://bigtime.gg"
+},
+{
+"id":83,
+"name":"Star Atlas",
+"category":"web3",
+"description":"Space exploration metaverse game featuring blockchain based economy, NFTs and immersive gameplay experiences.",
+"url":"https://staratlas.com"
+},
+{
+"id":84,
+"name":"Gala Games",
+"category":"web3",
+"description":"Blockchain gaming platform offering multiple play to earn games with decentralized ownership and NFT integration.",
+"url":"https://gala.games"
+},
+{
+"id":85,
+"name":"Ember Sword",
+"category":"web3",
+"description":"Sandbox MMORPG combining traditional gaming with blockchain ownership and player driven economy systems.",
+"url":"https://embersword.com"
+},
+
+{
+"id":86,
+"name":"Blankos Block Party",
+"category":"nft",
+"description":"NFT based multiplayer game featuring collectible characters and creative gameplay experiences within a digital world.",
+"url":"https://blankos.com"
+},
+{
+"id":87,
+"name":"Town Star",
+"category":"nft",
+"description":"Simulation game powered by blockchain allowing players to build towns, earn rewards and manage resources strategically.",
+"url":"https://gala.games/games/town-star"
+},
+{
+"id":88,
+"name":"The Walking Dead Empires",
+"category":"nft",
+"description":"Survival based NFT game combining storytelling, exploration and digital asset ownership in a post apocalyptic world.",
+"url":"https://thewalkingdeadempires.com"
+},
+{
+"id":89,
+"name":"Neon District",
+"category":"nft",
+"description":"Cyberpunk themed RPG using blockchain assets and NFTs to create strategic gameplay and digital ownership mechanics.",
+"url":"https://neondistrict.io"
+},
+{
+"id":90,
+"name":"Chainmonsters",
+"category":"nft",
+"description":"Multiplayer creature collection game with blockchain integration allowing players to own and trade in game assets.",
+"url":"https://chainmonsters.com"
+},
+{
+"id":91,
+"name":"Minecraft",
+"category":"metaverse",
+"description":"Sandbox game enabling players to build, explore and create worlds while interacting in multiplayer environments with endless creative possibilities.",
+"url":"https://www.minecraft.net"
+},
+{
+"id":92,
+"name":"Core Games",
+"category":"metaverse",
+"description":"User generated gaming platform where players create and explore interactive worlds, multiplayer games and immersive experiences.",
+"url":"https://www.coregames.com"
+},
+{
+"id":93,
+"name":"Second Life",
+"category":"metaverse",
+"description":"Virtual world platform allowing users to interact socially, create environments and participate in immersive digital experiences.",
+"url":"https://secondlife.com"
+},
+{
+"id":94,
+"name":"IMVU",
+"category":"metaverse",
+"description":"Social metaverse platform where users create avatars, interact in virtual spaces and engage in immersive experiences.",
+"url":"https://www.imvu.com"
+},
+{
+"id":95,
+"name":"Horizon Worlds",
+"category":"metaverse",
+"description":"Meta virtual reality platform offering social interaction, gaming experiences and immersive world creation features.",
+"url":"https://www.meta.com"
+},
+
+{
+"id":96,
+"name":"PBS Kids Arcade",
+"category":"kids",
+"description":"Educational arcade style games designed for children focusing on fun learning, creativity and safe interactive gameplay experiences.",
+"url":"https://pbskids.org/games"
+},
+{
+"id":97,
+"name":"Nickelodeon Kids",
+"category":"kids",
+"description":"Safe gaming platform featuring interactive games based on popular kids shows designed for entertainment and engagement.",
+"url":"https://www.nick.com/games"
+},
+{
+"id":98,
+"name":"Disney Games",
+"category":"kids",
+"description":"Family friendly gaming platform offering games based on Disney characters with safe and engaging interactive content.",
+"url":"https://games.disney.com"
+},
+{
+"id":99,
+"name":"TurtleDiary",
+"category":"kids",
+"description":"Educational gaming platform offering interactive learning games designed for children covering multiple subjects and skills.",
+"url":"https://www.turtlediary.com"
+},
+{
+"id":100,
+"name":"Funbrain Arcade",
+"category":"kids",
+"description":"Interactive learning and arcade platform offering games designed to enhance problem solving and reading skills for children.",
+"url":"https://www.funbrain.com"
+},
+
+{
+"id":101,
+"name":"DLive",
+"category":"streaming",
+"description":"Blockchain based live streaming platform supporting gaming content creators with decentralized rewards and audience interaction.",
+"url":"https://dlive.tv"
+},
+{
+"id":102,
+"name":"Caffeine",
+"category":"streaming",
+"description":"Live streaming platform offering gaming, entertainment and interactive content with real time audience engagement features.",
+"url":"https://www.caffeine.tv"
+},
+{
+"id":103,
+"name":"Steam Broadcasting",
+"category":"streaming",
+"description":"Integrated streaming feature within Steam allowing users to broadcast gameplay and watch live gaming sessions.",
+"url":"https://store.steampowered.com"
+},
+{
+"id":104,
+"name":"Nimo TV",
+"category":"streaming",
+"description":"Gaming focused live streaming platform offering esports content, gameplay streams and interactive viewer engagement.",
+"url":"https://www.nimo.tv"
+},
+{
+"id":105,
+"name":"Rooter",
+"category":"streaming",
+"description":"Indian gaming streaming platform offering live gameplay, esports content and community interaction features.",
+"url":"https://rooter.gg"
+},
+
+{
+"id":106,
+"name":"Lagged",
+"category":"casual",
+"description":"Browser gaming platform offering quick play HTML5 games optimized for mobile and desktop users across multiple categories.",
+"url":"https://lagged.com"
+},
+{
+"id":107,
+"name":"Silvergames",
+"category":"casual",
+"description":"Online gaming website featuring a wide variety of browser based games including action, racing and puzzle experiences.",
+"url":"https://www.silvergames.com"
+},
+{
+"id":108,
+"name":"A10 Games",
+"category":"casual",
+"description":"Free online gaming platform offering casual browser games including shooting, racing and strategy based gameplay.",
+"url":"https://www.a10.com"
+},
+{
+"id":109,
+"name":"FreeOnlineGames",
+"category":"casual",
+"description":"Gaming website providing access to free browser based games across multiple genres designed for instant play.",
+"url":"https://www.freeonlinegames.com"
+},
+{
+"id":110,
+"name":"Puffgames",
+"category":"casual",
+"description":"Simple and lightweight browser gaming platform offering quick access games for casual players across various categories.",
+"url":"https://puffgames.com"
+},
+
+{
+"id":111,
+"name":"Neopets Games",
+"category":"arcade",
+"description":"Classic virtual pet platform with arcade style games offering nostalgic gameplay and interactive experiences for users.",
+"url":"https://www.neopets.com"
+},
+{
+"id":112,
+"name":"Kong Arcade",
+"category":"arcade",
+"description":"Arcade focused gaming section offering classic style games and retro inspired gameplay for nostalgic players.",
+"url":"https://www.kongregate.com"
+},
+{
+"id":113,
+"name":"ArcadePrehacks",
+"category":"arcade",
+"description":"Arcade gaming platform featuring modified and classic games offering unique gameplay variations and fun experiences.",
+"url":"https://arcadeprehacks.com"
+},
+{
+"id":114,
+"name":"MiniPlay",
+"category":"arcade",
+"description":"Online gaming portal offering arcade, retro and casual games playable instantly through browser.",
+"url":"https://www.miniplay.com"
+},
+{
+"id":115,
+"name":"Play123",
+"category":"arcade",
+"description":"Free online gaming website offering a large collection of arcade and casual games accessible across devices.",
+"url":"https://www.play123.com"
+},
+
+{
+"id":116,
+"name":"ESL India",
+"category":"esports",
+"description":"Regional esports platform hosting tournaments, competitions and gaming events for players across India.",
+"url":"https://in.eslgaming.com"
+},
+{
+"id":117,
+"name":"Upthrust Esports",
+"category":"esports",
+"description":"Indian esports organization offering tournaments, community events and competitive gaming opportunities.",
+"url":"https://upthrustesports.com"
+},
+{
+"id":118,
+"name":"Skyesports",
+"category":"esports",
+"description":"Esports platform organizing tournaments, leagues and competitive gaming events across multiple titles.",
+"url":"https://skyesports.in"
+},
+{
+"id":119,
+"name":"Nodwin Gaming",
+"category":"esports",
+"description":"Esports company organizing gaming events, tournaments and community driven competitive experiences.",
+"url":"https://nodwingaming.com"
+},
+{
+"id":120,
+"name":"Gamerji",
+"category":"esports",
+"description":"Indian esports tournament platform enabling players to participate in competitive matches and win rewards.",
+"url":"https://www.gamerji.com"
+},
+{
+"id":121,
+"name":"Dream11",
+"category":"fantasy",
+"description":"Popular fantasy sports platform allowing users to create teams and compete in real time sports contests based on live performances.",
+"url":"https://www.dream11.com"
+},
+{
+"id":122,
+"name":"MyTeam11",
+"category":"fantasy",
+"description":"Fantasy gaming platform offering cricket and sports contests with leaderboard rankings and reward based competitions.",
+"url":"https://www.myteam11.com"
+},
+{
+"id":123,
+"name":"Vision11",
+"category":"fantasy",
+"description":"Fantasy sports application providing contests across multiple sports with real time gameplay and earning opportunities.",
+"url":"https://vision11.in"
+},
+{
+"id":124,
+"name":"Howzat",
+"category":"fantasy",
+"description":"Cricket focused fantasy platform enabling users to build teams and compete in contests based on match outcomes.",
+"url":"https://www.howzat.com"
+},
+{
+"id":125,
+"name":"11Wickets",
+"category":"fantasy",
+"description":"Fantasy sports platform offering competitive gameplay and rewards through team selection based contests.",
+"url":"https://www.11wickets.com"
+},
+
+{
+"id":126,
+"name":"Illuvium",
+"category":"web3",
+"description":"Blockchain based open world RPG featuring collectible creatures, strategic battles and decentralized asset ownership systems.",
+"url":"https://illuvium.io"
+},
+{
+"id":127,
+"name":"Gods Unchained",
+"category":"web3",
+"description":"Blockchain trading card game allowing players to own, trade and compete using NFT based card collections.",
+"url":"https://godsunchained.com"
+},
+{
+"id":128,
+"name":"Mythical Games",
+"category":"web3",
+"description":"Blockchain gaming studio offering multiple games with NFT ownership and play to earn ecosystems.",
+"url":"https://mythicalgames.com"
+},
+{
+"id":129,
+"name":"Ultra",
+"category":"web3",
+"description":"Blockchain based gaming platform combining distribution, esports and NFT based game ownership ecosystem.",
+"url":"https://ultra.io"
+},
+{
+"id":130,
+"name":"Voxie Tactics",
+"category":"web3",
+"description":"Turn based tactical RPG integrating blockchain assets allowing players to own and trade in game characters.",
+"url":"https://voxies.io"
+},
+
+{
+"id":131,
+"name":"Zed Run",
+"category":"nft",
+"description":"Digital horse racing game where players breed, trade and race NFT based horses in competitive environments.",
+"url":"https://zed.run"
+},
+{
+"id":132,
+"name":"Sorare",
+"category":"nft",
+"description":"Fantasy football platform using NFT player cards allowing users to compete in global tournaments and leagues.",
+"url":"https://sorare.com"
+},
+{
+"id":133,
+"name":"Aavegotchi",
+"category":"nft",
+"description":"DeFi enabled NFT game combining collectibles, staking and interactive gameplay within a digital ecosystem.",
+"url":"https://aavegotchi.com"
+},
+{
+"id":134,
+"name":"Alien Worlds",
+"category":"nft",
+"description":"Blockchain mining and strategy game where players explore planets, mine resources and earn digital assets.",
+"url":"https://alienworlds.io"
+},
+{
+"id":135,
+"name":"CryptoKitties",
+"category":"nft",
+"description":"One of the earliest NFT games allowing users to collect, breed and trade digital cats on blockchain.",
+"url":"https://www.cryptokitties.co"
+},
+
+{
+"id":136,
+"name":"Facebook Gaming",
+"category":"streaming",
+"description":"Gaming content platform offering live streams, community interaction and gaming related entertainment experiences.",
+"url":"https://www.facebook.com/gaming"
+},
+{
+"id":137,
+"name":"Dailymotion Gaming",
+"category":"streaming",
+"description":"Video platform featuring gaming content, live streams and gameplay videos from creators worldwide.",
+"url":"https://www.dailymotion.com"
+},
+{
+"id":138,
+"name":"Booyah",
+"category":"streaming",
+"description":"Gaming streaming platform offering live content, clips and interactive features for mobile and esports audiences.",
+"url":"https://booyah.live"
+},
+{
+"id":139,
+"name":"Trovo Live",
+"category":"streaming",
+"description":"Live streaming platform focused on gaming content, creators and community engagement features.",
+"url":"https://trovo.live"
+},
+{
+"id":140,
+"name":"Nonolive",
+"category":"streaming",
+"description":"Interactive streaming platform providing gaming and entertainment content with real time viewer interaction.",
+"url":"https://www.nonolive.com"
+},
+
+{
+"id":141,
+"name":"CrazyGames Mobile",
+"category":"casual",
+"description":"Mobile optimized browser gaming platform offering fast loading games designed for quick play sessions across devices.",
+"url":"https://www.crazygames.com"
+},
+{
+"id":142,
+"name":"GameDistribution",
+"category":"casual",
+"description":"HTML5 game distribution platform providing access to casual games for web and mobile experiences.",
+"url":"https://gamedistribution.com"
+},
+{
+"id":143,
+"name":"PlayOnWeb",
+"category":"casual",
+"description":"Browser gaming portal offering a variety of casual and arcade style games for quick entertainment.",
+"url":"https://playonweb.com"
+},
+{
+"id":144,
+"name":"ClickJogos",
+"category":"casual",
+"description":"Online gaming platform offering free browser games across multiple categories including puzzles and action.",
+"url":"https://www.clickjogos.com.br"
+},
+{
+"id":145,
+"name":"GameTop Browser",
+"category":"casual",
+"description":"Gaming platform offering downloadable and browser based casual games for free across various genres.",
+"url":"https://www.gametop.com"
+},
+
+{
+"id":146,
+"name":"AddictingGames Arcade",
+"category":"arcade",
+"description":"Popular arcade gaming website offering a wide variety of classic and modern browser based games.",
+"url":"https://www.addictinggames.com"
+},
+{
+"id":147,
+"name":"Armor Arcade",
+"category":"arcade",
+"description":"Arcade gaming portal providing classic flash style games and new browser based experiences for players.",
+"url":"https://armor.ag"
+},
+{
+"id":148,
+"name":"Yiv Games",
+"category":"arcade",
+"description":"Free online gaming site offering arcade and casual games playable directly through browser.",
+"url":"https://www.yiv.com"
+},
+{
+"id":149,
+"name":"Gameflare",
+"category":"arcade",
+"description":"Online gaming website featuring a wide range of arcade and skill based browser games.",
+"url":"https://www.gameflare.com"
+},
+{
+"id":150,
+"name":"PlayRetroGames",
+"category":"arcade",
+"description":"Retro gaming platform offering classic console and arcade games playable through browser emulation.",
+"url":"https://www.playretrogames.com"
+},
+{
+"id":151,
+"name":"Roblox",
+"category":"metaverse",
+"description":"User generated gaming platform where players create, share and explore immersive multiplayer worlds with diverse game experiences.",
+"url":"https://www.roblox.com"
+},
+{
+"id":152,
+"name":"Fortnite Creative",
+"category":"metaverse",
+"description":"Creative mode within Fortnite allowing users to build worlds, design games and explore community created experiences.",
+"url":"https://www.epicgames.com/fortnite"
+},
+{
+"id":153,
+"name":"VRChat",
+"category":"metaverse",
+"description":"Social virtual world platform enabling users to interact through avatars and explore immersive environments and games.",
+"url":"https://vrchat.com"
+},
+{
+"id":154,
+"name":"Spatial",
+"category":"metaverse",
+"description":"3D social platform offering immersive virtual spaces for collaboration, gaming and creative experiences.",
+"url":"https://spatial.io"
+},
+{
+"id":155,
+"name":"Rec Room",
+"category":"metaverse",
+"description":"Multiplayer social gaming platform featuring mini games, creative tools and user generated virtual worlds.",
+"url":"https://recroom.com"
+},
+
+{
+"id":156,
+"name":"ABCya Games",
+"category":"kids",
+"description":"Educational gaming platform offering fun learning games for kids focusing on math, reading and problem solving skills.",
+"url":"https://www.abcya.com"
+},
+{
+"id":157,
+"name":"Starfall",
+"category":"kids",
+"description":"Interactive educational platform designed for early learning including reading, phonics and math based activities.",
+"url":"https://www.starfall.com"
+},
+{
+"id":158,
+"name":"Toy Theater Games",
+"category":"kids",
+"description":"Educational game collection designed for children focusing on creativity, math and interactive learning experiences.",
+"url":"https://toytheater.com"
+},
+{
+"id":159,
+"name":"PBS Learning Games",
+"category":"kids",
+"description":"Learning focused games designed to build educational skills through fun and interactive gameplay experiences for children.",
+"url":"https://pbskids.org"
+},
+{
+"id":160,
+"name":"Highlights Kids",
+"category":"kids",
+"description":"Kids platform offering puzzles, games and activities designed to improve creativity and learning engagement.",
+"url":"https://www.highlightskids.com"
+},
+
+{
+"id":161,
+"name":"YouTube Gaming",
+"category":"streaming",
+"description":"Gaming focused section of YouTube offering live streams, gameplay videos and community content from creators worldwide.",
+"url":"https://www.youtube.com/gaming"
+},
+{
+"id":162,
+"name":"Kick",
+"category":"streaming",
+"description":"Live streaming platform offering gaming content, creator support and real time audience interaction features.",
+"url":"https://kick.com"
+},
+{
+"id":163,
+"name":"AfreecaTV",
+"category":"streaming",
+"description":"Streaming platform popular in esports and gaming communities providing live broadcasts and interactive content.",
+"url":"https://www.afreecatv.com"
+},
+{
+"id":164,
+"name":"Huya",
+"category":"streaming",
+"description":"Chinese gaming streaming platform offering esports, live gameplay and entertainment content for viewers.",
+"url":"https://www.huya.com"
+},
+{
+"id":165,
+"name":"Douyu",
+"category":"streaming",
+"description":"Live streaming platform focused on gaming, esports and interactive content with global audience reach.",
+"url":"https://www.douyu.com"
+},
+
+{
+"id":166,
+"name":"GamePix",
+"category":"casual",
+"description":"HTML5 gaming platform offering mobile friendly browser games playable instantly without downloads across devices.",
+"url":"https://www.gamepix.com"
+},
+{
+"id":167,
+"name":"Kizi Games",
+"category":"casual",
+"description":"Online gaming platform featuring casual games including puzzles, action and adventure experiences for quick play.",
+"url":"https://kizi.com"
+},
+{
+"id":168,
+"name":"Pogo Games",
+"category":"casual",
+"description":"Casual gaming platform offering classic board, card and puzzle games designed for relaxed gameplay sessions.",
+"url":"https://www.pogo.com"
+},
+{
+"id":169,
+"name":"Mousebreaker",
+"category":"casual",
+"description":"Free online gaming site offering simple and engaging browser based games across multiple genres.",
+"url":"https://www.mousebreaker.com"
+},
+{
+"id":170,
+"name":"Friv Classic",
+"category":"casual",
+"description":"Classic browser gaming website featuring a wide variety of casual games designed for quick and fun experiences.",
+"url":"https://www.frivclassic.com"
+},
+
+{
+"id":171,
+"name":"RetroGames.cc",
+"category":"arcade",
+"description":"Online emulator platform offering classic arcade and console games playable directly in browser.",
+"url":"https://www.retrogames.cc"
+},
+{
+"id":172,
+"name":"ClassicReload",
+"category":"arcade",
+"description":"Retro gaming platform featuring DOS and classic games playable through browser based emulation.",
+"url":"https://classicreload.com"
+},
+{
+"id":173,
+"name":"PlayEmulator",
+"category":"arcade",
+"description":"Browser emulator allowing users to play classic console games from different platforms online.",
+"url":"https://www.playemulator.com"
+},
+{
+"id":174,
+"name":"EmulatorGames",
+"category":"arcade",
+"description":"Gaming platform offering retro game emulation for classic console and arcade experiences online.",
+"url":"https://www.emulatorgames.net"
+},
+{
+"id":175,
+"name":"ConsoleFun",
+"category":"arcade",
+"description":"Online gaming site featuring classic console and arcade games accessible through browser emulation.",
+"url":"https://www.consolefun.com"
+},
+
+{
+"id":176,
+"name":"Battlefy",
+"category":"tournaments",
+"description":"Tournament platform supporting esports competitions, event organization and player participation across games.",
+"url":"https://battlefy.com"
+},
+{
+"id":177,
+"name":"Toornament",
+"category":"tournaments",
+"description":"Esports tournament management platform enabling organizers to create and manage competitive gaming events.",
+"url":"https://www.toornament.com"
+},
+{
+"id":178,
+"name":"Challengermode",
+"category":"tournaments",
+"description":"Competitive gaming platform offering tournaments, leagues and ranked gameplay experiences for players.",
+"url":"https://www.challengermode.com"
+},
+{
+"id":179,
+"name":"Smash.gg",
+"category":"tournaments",
+"description":"Esports tournament platform providing event hosting, brackets and competitive gaming management tools.",
+"url":"https://www.start.gg"
+},
+{
+"id":180,
+"name":"Faceit",
+"category":"tournaments",
+"description":"Competitive gaming platform offering ranked matchmaking, tournaments and esports competition for players worldwide.",
+"url":"https://www.faceit.com"
+},
+{
+"id":181,
+"name":"Dreamscape",
+"category":"metaverse",
+"description":"Interactive virtual world combining reading, storytelling and immersive gameplay experiences designed for engaging digital exploration.",
+"url":"https://dreamscape.com"
+},
+{
+"id":182,
+"name":"Sandbox",
+"category":"metaverse",
+"description":"Blockchain powered virtual world allowing users to create, own and monetize gaming experiences and digital assets.",
+"url":"https://www.sandbox.game"
+},
+{
+"id":183,
+"name":"Decentral Games",
+"category":"metaverse",
+"description":"Metaverse casino and social gaming platform built on blockchain offering immersive multiplayer experiences.",
+"url":"https://decentral.games"
+},
+{
+"id":184,
+"name":"Somnium Space",
+"category":"metaverse",
+"description":"Open virtual reality world offering immersive experiences, land ownership and social interaction features.",
+"url":"https://somniumspace.com"
+},
+{
+"id":185,
+"name":"MetaWorld",
+"category":"metaverse",
+"description":"Virtual metaverse platform enabling interactive experiences, gaming and social connectivity within digital environments.",
+"url":"https://metaworld.com"
+},
+
+{
+"id":186,
+"name":"Coolmath4Kids Games",
+"category":"kids",
+"description":"Educational gaming platform offering fun math based games designed to improve logic and problem solving skills for children.",
+"url":"https://www.coolmath4kids.com"
+},
+{
+"id":187,
+"name":"Funbrain Playground",
+"category":"kids",
+"description":"Interactive learning environment featuring games, reading and activities for kids to develop essential academic skills.",
+"url":"https://www.funbrain.com"
+},
+{
+"id":188,
+"name":"SplashLearn Games",
+"category":"kids",
+"description":"Math and reading focused educational platform offering gamified learning experiences for children.",
+"url":"https://www.splashlearn.com"
+},
+{
+"id":189,
+"name":"Prodigy Math Game",
+"category":"kids",
+"description":"Game based math learning platform where kids solve problems through interactive gameplay and quests.",
+"url":"https://www.prodigygame.com"
+},
+{
+"id":190,
+"name":"Education.com Games",
+"category":"kids",
+"description":"Educational resource platform offering worksheets, games and activities for early learning and school level education.",
+"url":"https://www.education.com/games"
+},
+
+{
+"id":191,
+"name":"Omlet Arcade",
+"category":"streaming",
+"description":"Mobile focused game streaming platform allowing users to broadcast gameplay and interact with gaming communities.",
+"url":"https://www.omlet.gg"
+},
+{
+"id":192,
+"name":"Booster Gaming",
+"category":"streaming",
+"description":"Cloud gaming and streaming platform enabling players to access and stream games without high end hardware.",
+"url":"https://boosteroid.com"
+},
+{
+"id":193,
+"name":"Shadow Gaming",
+"category":"streaming",
+"description":"Cloud based gaming platform offering high performance streaming of PC games across devices.",
+"url":"https://shadow.tech"
+},
+{
+"id":194,
+"name":"Netboom",
+"category":"streaming",
+"description":"Cloud gaming platform allowing users to stream and play PC games on mobile devices seamlessly.",
+"url":"https://www.netboom.com"
+},
+{
+"id":195,
+"name":"GeForce NOW",
+"category":"streaming",
+"description":"NVIDIA cloud gaming service enabling players to stream high quality games from the cloud on multiple devices.",
+"url":"https://www.nvidia.com/en-in/geforce-now"
+},
+
+{
+"id":196,
+"name":"Y8 Mobile",
+"category":"casual",
+"description":"Mobile optimized casual gaming platform offering HTML5 games playable instantly without installation.",
+"url":"https://www.y8.com"
+},
+{
+"id":197,
+"name":"CrazyGames Lite",
+"category":"casual",
+"description":"Lightweight browser gaming platform offering fast loading casual games optimized for quick play sessions.",
+"url":"https://www.crazygames.com"
+},
+{
+"id":198,
+"name":"Friv New",
+"category":"casual",
+"description":"Modern version of Friv offering updated casual games collection accessible through browser.",
+"url":"https://www.friv.com"
+},
+{
+"id":199,
+"name":"GameSheep",
+"category":"casual",
+"description":"Free online gaming site featuring casual and arcade games playable directly without downloads.",
+"url":"https://www.gamesheep.com"
+},
+{
+"id":200,
+"name":"MiniGames",
+"category":"casual",
+"description":"Browser based gaming platform offering casual games across various genres including puzzle and action.",
+"url":"https://www.minigames.com"
+},
+
+{
+"id":201,
+"name":"Retro Bowl",
+"category":"arcade",
+"description":"Classic style sports arcade game offering retro graphics and engaging gameplay focused on football management.",
+"url":"https://retro-bowl.com"
+},
+{
+"id":202,
+"name":"Arcade Spot",
+"category":"arcade",
+"description":"Online gaming portal featuring classic arcade games and modern browser based experiences.",
+"url":"https://arcadespot.com"
+},
+{
+"id":203,
+"name":"FreeClassicGames",
+"category":"arcade",
+"description":"Collection of classic games playable in browser offering nostalgic arcade experiences.",
+"url":"https://www.freeclassicgames.com"
+},
+{
+"id":204,
+"name":"ClassicArcadeGaming",
+"category":"arcade",
+"description":"Website dedicated to preserving classic arcade games and providing historical and playable content.",
+"url":"https://www.classicarcadegaming.com"
+},
+{
+"id":205,
+"name":"VintageArcade",
+"category":"arcade",
+"description":"Retro arcade gaming platform offering old school gaming experiences through browser emulation.",
+"url":"https://www.vintagearcade.net"
+},
+
+{
+"id":206,
+"name":"ESL Play",
+"category":"tournaments",
+"description":"Global esports tournament platform offering competitions, ladders and leagues for players across multiple games.",
+"url":"https://play.eslgaming.com"
+},
+{
+"id":207,
+"name":"Repeat.gg",
+"category":"tournaments",
+"description":"Skill based gaming platform offering continuous tournaments and reward based gameplay competitions.",
+"url":"https://repeat.gg"
+},
+{
+"id":208,
+"name":"Gfinity",
+"category":"tournaments",
+"description":"Esports organization hosting tournaments, leagues and competitive gaming events worldwide.",
+"url":"https://www.gfinity.net"
+},
+{
+"id":209,
+"name":"Battle Royale Tournaments",
+"category":"tournaments",
+"description":"Platform focused on organizing battle royale competitions and competitive gaming events.",
+"url":"https://battlefy.com"
+},
+{
+"id":210,
+"name":"Z League",
+"category":"tournaments",
+"description":"Skill based gaming tournament platform matching players with similar skill levels for fair competition.",
+"url":"https://www.zleague.gg"
+},
+{
+"id":211,
+"name":"Meta Horizon Worlds",
+"category":"metaverse",
+"description":"Virtual reality social platform offering immersive worlds, interactive experiences and user generated environments for gaming and collaboration.",
+"url":"https://www.meta.com/horizon"
+},
+{
+"id":212,
+"name":"Engage VR",
+"category":"metaverse",
+"description":"Virtual communication and experience platform offering immersive environments for events, learning and interactive gameplay.",
+"url":"https://engagevr.io"
+},
+{
+"id":213,
+"name":"AltspaceVR",
+"category":"metaverse",
+"description":"Social VR platform enabling users to connect, attend events and explore immersive virtual worlds together.",
+"url":"https://altvr.com"
+},
+{
+"id":214,
+"name":"Virbela",
+"category":"metaverse",
+"description":"Virtual world platform focused on collaboration, events and immersive experiences within digital environments.",
+"url":"https://www.virbela.com"
+},
+{
+"id":215,
+"name":"FrameVR",
+"category":"metaverse",
+"description":"Browser based metaverse platform offering interactive virtual spaces accessible without downloads.",
+"url":"https://framevr.io"
+},
+
+{
+"id":216,
+"name":"Math Playground Games",
+"category":"kids",
+"description":"Educational platform offering math based games designed to improve problem solving and logical thinking skills.",
+"url":"https://www.mathplayground.com"
+},
+{
+"id":217,
+"name":"IXL Games",
+"category":"kids",
+"description":"Learning platform offering interactive skill based activities and games covering math, language and academic subjects.",
+"url":"https://www.ixl.com"
+},
+{
+"id":218,
+"name":"ABCmouse Games",
+"category":"kids",
+"description":"Early learning platform offering structured games and activities for children focusing on reading and math development.",
+"url":"https://www.abcmouse.com"
+},
+{
+"id":219,
+"name":"RoomRecess",
+"category":"kids",
+"description":"Educational gaming website offering free games designed for classroom learning and skill development.",
+"url":"https://www.roomrecess.com"
+},
+{
+"id":220,
+"name":"Sheppard Software Games",
+"category":"kids",
+"description":"Interactive educational website offering geography, math and science games for children.",
+"url":"https://www.sheppardsoftware.com"
+},
+
+{
+"id":221,
+"name":"Steam Community Broadcast",
+"category":"streaming",
+"description":"Community driven streaming feature within Steam allowing users to broadcast and watch live gameplay sessions.",
+"url":"https://store.steampowered.com"
+},
+{
+"id":222,
+"name":"Glimesh",
+"category":"streaming",
+"description":"Low latency live streaming platform designed for gaming and real time interaction with audiences.",
+"url":"https://glimesh.tv"
+},
+{
+"id":223,
+"name":"Picarto",
+"category":"streaming",
+"description":"Streaming platform focused on creative and gaming content with real time interaction features.",
+"url":"https://picarto.tv"
+},
+{
+"id":224,
+"name":"Mobcrush",
+"category":"streaming",
+"description":"Mobile gaming streaming platform enabling users to broadcast gameplay and engage with audiences.",
+"url":"https://www.mobcrush.com"
+},
+{
+"id":225,
+"name":"Dacast Gaming",
+"category":"streaming",
+"description":"Streaming solution offering professional broadcasting tools for gaming content creators and live events.",
+"url":"https://www.dacast.com"
+},
+
+{
+"id":226,
+"name":"GameSnacks",
+"category":"casual",
+"description":"Google powered lightweight gaming platform offering instant play HTML5 games optimized for mobile devices.",
+"url":"https://gamesnacks.com"
+},
+{
+"id":227,
+"name":"Poki Lite",
+"category":"casual",
+"description":"Optimized version of Poki offering lightweight casual games for smooth performance across devices.",
+"url":"https://poki.com"
+},
+{
+"id":228,
+"name":"AddictingGames Mobile",
+"category":"casual",
+"description":"Mobile friendly version of AddictingGames offering a variety of casual browser games for quick play.",
+"url":"https://www.addictinggames.com"
+},
+{
+"id":229,
+"name":"Gamezop",
+"category":"casual",
+"description":"HTML5 gaming platform offering lightweight casual games integrated across websites and apps.",
+"url":"https://www.gamezop.com"
+},
+{
+"id":230,
+"name":"Instant Games Facebook",
+"category":"casual",
+"description":"Social gaming platform offering quick play casual games integrated within Facebook ecosystem.",
+"url":"https://www.facebook.com/gaming/play"
+},
+
+{
+"id":231,
+"name":"Arcade Classics",
+"category":"arcade",
+"description":"Online portal featuring classic arcade games providing nostalgic gameplay experiences for players.",
+"url":"https://www.arcadeclassics.com"
+},
+{
+"id":232,
+"name":"PlayArcade",
+"category":"arcade",
+"description":"Browser gaming platform offering arcade style games across various categories including action and puzzle.",
+"url":"https://www.playarcade.com"
+},
+{
+"id":233,
+"name":"ArcadeThunder",
+"category":"arcade",
+"description":"Online arcade gaming site offering a wide selection of free games playable directly in browser.",
+"url":"https://www.arcadethunder.com"
+},
+{
+"id":234,
+"name":"ClassicGamesArcade",
+"category":"arcade",
+"description":"Collection of classic arcade games accessible through browser emulation providing retro gaming experiences.",
+"url":"https://classicgamesarcade.com"
+},
+{
+"id":235,
+"name":"RetroGamesOnline",
+"category":"arcade",
+"description":"Retro gaming platform offering classic console and arcade games playable online through emulators.",
+"url":"https://www.retrogamesonline.io"
+},
+
+{
+"id":236,
+"name":"Game.tv",
+"category":"tournaments",
+"description":"Mobile esports tournament platform offering competitions, rewards and community engagement for gamers.",
+"url":"https://www.game.tv"
+},
+{
+"id":237,
+"name":"ReadyUp",
+"category":"tournaments",
+"description":"Competitive gaming platform providing matchmaking, tournaments and reward based competitions.",
+"url":"https://www.readyup.com"
+},
+{
+"id":238,
+"name":"BattleCup",
+"category":"tournaments",
+"description":"Tournament platform offering organized competitions and structured gameplay events for gamers.",
+"url":"https://battlecup.gg"
+},
+{
+"id":239,
+"name":"Ewar Games",
+"category":"tournaments",
+"description":"Esports platform offering competitive matches, tournaments and reward based gaming experiences.",
+"url":"https://ewar.gg"
+},
+{
+"id":240,
+"name":"Tournament.com",
+"category":"tournaments",
+"description":"Global gaming platform hosting tournaments, competitions and community driven esports events.",
+"url":"https://www.tournament.com"
+},
+{
+"id":241,
+"name":"Mozilla Hubs",
+"category":"metaverse",
+"description":"Browser based virtual world platform allowing users to create rooms, interact socially and explore immersive environments.",
+"url":"https://hubs.mozilla.com"
+},
+{
+"id":242,
+"name":"Voxels",
+"category":"metaverse",
+"description":"Blockchain based virtual world offering land ownership, gaming experiences and interactive digital environments.",
+"url":"https://www.voxels.com"
+},
+{
+"id":243,
+"name":"Hyperfy",
+"category":"metaverse",
+"description":"Open source metaverse platform enabling users to build and explore immersive 3D worlds directly in browser.",
+"url":"https://hyperfy.io"
+},
+{
+"id":244,
+"name":"Substrata",
+"category":"metaverse",
+"description":"Online virtual world platform offering social interaction and exploration within user generated environments.",
+"url":"https://substrata.info"
+},
+{
+"id":245,
+"name":"Viverse",
+"category":"metaverse",
+"description":"Immersive virtual platform offering interactive experiences and metaverse based social environments.",
+"url":"https://www.viverse.com"
+},
+
+{
+"id":246,
+"name":"ABC Kids Games",
+"category":"kids",
+"description":"Early learning gaming platform focusing on alphabets, phonics and interactive activities for young children.",
+"url":"https://abckidsapp.com"
+},
+{
+"id":247,
+"name":"LearningGamesForKids",
+"category":"kids",
+"description":"Educational website offering interactive games and activities covering multiple subjects for children.",
+"url":"https://www.learninggamesforkids.com"
+},
+{
+"id":248,
+"name":"Funology",
+"category":"kids",
+"description":"Kids learning platform offering science experiments, games and fun educational activities.",
+"url":"https://www.funology.com"
+},
+{
+"id":249,
+"name":"PrimaryGames",
+"category":"kids",
+"description":"Free educational games platform offering activities, puzzles and learning resources for school children.",
+"url":"https://www.primarygames.com"
+},
+{
+"id":250,
+"name":"KidsWorldFun Games",
+"category":"kids",
+"description":"Interactive platform offering fun learning games, puzzles and activities for kids across different age groups.",
+"url":"https://www.kidsworldfun.com"
+},
+
+{
+"id":251,
+"name":"Streamlabs",
+"category":"streaming",
+"description":"Streaming tools platform offering broadcasting software, overlays and engagement features for gaming creators.",
+"url":"https://streamlabs.com"
+},
+{
+"id":252,
+"name":"OBS Studio",
+"category":"streaming",
+"description":"Open source streaming software used by gamers to broadcast live gameplay and create content.",
+"url":"https://obsproject.com"
+},
+{
+"id":253,
+"name":"Restream",
+"category":"streaming",
+"description":"Multistreaming platform allowing users to broadcast gaming content across multiple platforms simultaneously.",
+"url":"https://restream.io"
+},
+{
+"id":254,
+"name":"Lightstream",
+"category":"streaming",
+"description":"Cloud based streaming studio enabling gamers to create professional live streams without complex setup.",
+"url":"https://golightstream.com"
+},
+{
+"id":255,
+"name":"XSplit",
+"category":"streaming",
+"description":"Streaming and recording software offering tools for live broadcasting and content creation.",
+"url":"https://www.xsplit.com"
+},
+
+{
+"id":256,
+"name":"HTML5Games",
+"category":"casual",
+"description":"Collection of browser based HTML5 games offering quick play casual gaming experiences without downloads.",
+"url":"https://html5games.com"
+},
+{
+"id":257,
+"name":"GameHub",
+"category":"casual",
+"description":"Online gaming platform offering casual browser games across different categories for quick entertainment.",
+"url":"https://www.gamehub.com"
+},
+{
+"id":258,
+"name":"PlayWebGames",
+"category":"casual",
+"description":"Browser gaming website offering a variety of casual games accessible across devices without installation.",
+"url":"https://www.playwebgames.com"
+},
+{
+"id":259,
+"name":"GamesFrog",
+"category":"casual",
+"description":"Free online gaming platform offering casual and arcade games playable instantly through browser.",
+"url":"https://www.gamesfrog.com"
+},
+{
+"id":260,
+"name":"Games68",
+"category":"casual",
+"description":"Online gaming site providing access to various casual browser games designed for quick gameplay sessions.",
+"url":"https://www.games68.com"
+},
+
+{
+"id":261,
+"name":"ArcadeGamePlace",
+"category":"arcade",
+"description":"Classic arcade gaming platform offering browser based games with retro gameplay experiences.",
+"url":"https://www.arcadegameplace.com"
+},
+{
+"id":262,
+"name":"GameOldies",
+"category":"arcade",
+"description":"Retro gaming site offering classic console and arcade games playable online through emulators.",
+"url":"https://www.gameoldies.com"
+},
+{
+"id":263,
+"name":"ClassicGamesOnline",
+"category":"arcade",
+"description":"Online platform offering a collection of classic games accessible through browser based emulation.",
+"url":"https://www.classicgamesonline.com"
+},
+{
+"id":264,
+"name":"RetroArcadeLive",
+"category":"arcade",
+"description":"Retro gaming platform featuring classic arcade games playable instantly online.",
+"url":"https://www.retroarcadelive.com"
+},
+{
+"id":265,
+"name":"OldArcadeGames",
+"category":"arcade",
+"description":"Archive of old arcade games providing nostalgic gameplay experiences through browser emulation.",
+"url":"https://www.oldarcadegames.com"
+},
+
+{
+"id":266,
+"name":"Players Hub",
+"category":"tournaments",
+"description":"Competitive gaming community platform offering tournaments, events and player engagement features.",
+"url":"https://playershub.gg"
+},
+{
+"id":267,
+"name":"GameChampions",
+"category":"tournaments",
+"description":"Skill based gaming platform offering tournaments and reward based competitions across multiple games.",
+"url":"https://gamechampions.com"
+},
+{
+"id":268,
+"name":"ArenaGG",
+"category":"tournaments",
+"description":"Gaming tournament platform providing competitive matches and community driven esports events.",
+"url":"https://arenagg.com"
+},
+{
+"id":269,
+"name":"PvP Arena",
+"category":"tournaments",
+"description":"Competitive gaming platform offering player versus player tournaments and structured gameplay events.",
+"url":"https://pvparena.gg"
+},
+{
+"id":270,
+"name":"Esports Hub",
+"category":"tournaments",
+"description":"Community platform offering esports tournaments, events and gaming competitions for players worldwide.",
+"url":"https://esportshub.gg"
+},
+{
+"id":271,
+"name":"OpenSimulator",
+"category":"metaverse",
+"description":"Open source virtual world platform enabling users to create and explore custom metaverse environments and interactive spaces.",
+"url":"http://opensimulator.org"
+},
+{
+"id":272,
+"name":"High Fidelity",
+"category":"metaverse",
+"description":"Virtual reality platform offering immersive audio based experiences and social interaction in digital environments.",
+"url":"https://www.highfidelity.com"
+},
+{
+"id":273,
+"name":"Ready Player Me",
+"category":"metaverse",
+"description":"Avatar platform allowing users to create cross platform 3D avatars for games, virtual worlds and metaverse experiences.",
+"url":"https://readyplayer.me"
+},
+{
+"id":274,
+"name":"AvatarSDK",
+"category":"metaverse",
+"description":"Avatar creation platform enabling developers to integrate customizable avatars into games and virtual environments.",
+"url":"https://avatarsdk.com"
+},
+{
+"id":275,
+"name":"VRoid Hub",
+"category":"metaverse",
+"description":"3D avatar sharing platform allowing users to create, upload and use avatars across virtual experiences.",
+"url":"https://hub.vroid.com"
+},
+
+{
+"id":276,
+"name":"KidsGames.org",
+"category":"kids",
+"description":"Online gaming platform offering simple and safe games designed for young children and early learners.",
+"url":"https://www.kidsgames.org"
+},
+{
+"id":277,
+"name":"PlayKids Games",
+"category":"kids",
+"description":"Educational entertainment platform offering games and activities designed for early childhood learning and fun.",
+"url":"https://www.playkids.com"
+},
+{
+"id":278,
+"name":"Sesame Street Games",
+"category":"kids",
+"description":"Kids learning platform offering interactive games based on Sesame Street characters for early development.",
+"url":"https://www.sesamestreet.org/games"
+},
+{
+"id":279,
+"name":"CBeebies Games",
+"category":"kids",
+"description":"BBC kids platform offering safe games, activities and learning experiences for preschool children.",
+"url":"https://www.bbc.co.uk/cbeebies/games"
+},
+{
+"id":280,
+"name":"TinyTap",
+"category":"kids",
+"description":"Interactive learning platform offering educational games created by teachers for children.",
+"url":"https://www.tinytap.com"
+},
+
+{
+"id":281,
+"name":"StreamYard Gaming",
+"category":"streaming",
+"description":"Browser based streaming studio allowing users to create and broadcast live gaming content easily.",
+"url":"https://streamyard.com"
+},
+{
+"id":282,
+"name":"Casterlabs",
+"category":"streaming",
+"description":"Modern streaming platform offering tools for creators to broadcast and interact with audiences in real time.",
+"url":"https://casterlabs.co"
+},
+{
+"id":283,
+"name":"Melon App",
+"category":"streaming",
+"description":"Live streaming application offering easy broadcasting tools for gaming content creators.",
+"url":"https://melonapp.com"
+},
+{
+"id":284,
+"name":"LiveReacting",
+"category":"streaming",
+"description":"Streaming platform enabling automated live videos and interactive gaming content broadcasting.",
+"url":"https://www.livereacting.com"
+},
+{
+"id":285,
+"name":"StreamElements",
+"category":"streaming",
+"description":"Streaming tools platform offering overlays, alerts and analytics for gaming content creators.",
+"url":"https://streamelements.com"
+},
+
+{
+"id":286,
+"name":"CrazyGames Classic",
+"category":"casual",
+"description":"Classic version of CrazyGames offering lightweight browser games for quick play experiences.",
+"url":"https://www.crazygames.com"
+},
+{
+"id":287,
+"name":"GameMonetize",
+"category":"casual",
+"description":"HTML5 gaming platform offering monetized casual games playable across web and mobile devices.",
+"url":"https://gamemonetize.com"
+},
+{
+"id":288,
+"name":"Playgama",
+"category":"casual",
+"description":"Browser gaming platform providing casual and arcade style games for instant entertainment.",
+"url":"https://playgama.com"
+},
+{
+"id":289,
+"name":"GameDistribution Hub",
+"category":"casual",
+"description":"Gaming distribution platform offering a wide collection of HTML5 games for web integration.",
+"url":"https://gamedistribution.com"
+},
+{
+"id":290,
+"name":"WebGameHub",
+"category":"casual",
+"description":"Online gaming portal offering casual browser based games accessible without downloads.",
+"url":"https://webgamehub.com"
+},
+
+{
+"id":291,
+"name":"ArcadeDB",
+"category":"arcade",
+"description":"Database of classic arcade games offering playable versions and historical information for retro gaming enthusiasts.",
+"url":"https://www.arcadedb.com"
+},
+{
+"id":292,
+"name":"RetroGamingHub",
+"category":"arcade",
+"description":"Platform offering retro gaming content including playable arcade and console games.",
+"url":"https://retrogaminghub.com"
+},
+{
+"id":293,
+"name":"OldSchoolArcade",
+"category":"arcade",
+"description":"Classic arcade gaming site providing nostalgic gameplay experiences through browser based games.",
+"url":"https://oldschoolarcade.com"
+},
+{
+"id":294,
+"name":"ClassicArcadeHub",
+"category":"arcade",
+"description":"Online hub offering classic arcade games with retro gameplay mechanics accessible instantly.",
+"url":"https://classicarcadehub.com"
+},
+{
+"id":295,
+"name":"RetroPlayZone",
+"category":"arcade",
+"description":"Retro gaming website offering a collection of arcade style games playable directly online.",
+"url":"https://retroplayzone.com"
+},
+
+{
+"id":296,
+"name":"EsportsArena",
+"category":"tournaments",
+"description":"Competitive gaming platform offering tournaments, leagues and events for esports players.",
+"url":"https://esportsarena.com"
+},
+{
+"id":297,
+"name":"GameChamp Arena",
+"category":"tournaments",
+"description":"Online tournament platform providing structured competitions and reward based gameplay experiences.",
+"url":"https://gamechamp.gg"
+},
+{
+"id":298,
+"name":"ProGamingLeague",
+"category":"tournaments",
+"description":"Esports platform offering competitive gaming leagues, tournaments and ranking systems.",
+"url":"https://progamingleague.com"
+},
+{
+"id":299,
+"name":"Arena Esports",
+"category":"tournaments",
+"description":"Gaming competition platform hosting tournaments and events for players across multiple titles.",
+"url":"https://arenaesports.gg"
+},
+{
+"id":300,
+"name":"Ultimate Battle Arena",
+"category":"tournaments",
+"description":"Competitive gaming platform offering tournaments and multiplayer competitions for gamers worldwide.",
+"url":"https://ultimatebattlearena.com"
+}
+]
