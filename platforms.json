@@ -1,0 +1,215 @@
+[
+{
+"id":1,
+"name":"Poki",
+"category":"casual",
+"description":"A popular browser based gaming platform offering hundreds of instant play HTML5 games across action, puzzle and adventure categories without any installation required.",
+"url":"https://poki.com"
+},
+{
+"id":2,
+"name":"CrazyGames",
+"category":"casual",
+"description":"Online gaming website providing free browser games including racing, shooting and simulation titles designed for quick access and smooth performance across devices.",
+"url":"https://www.crazygames.com"
+},
+{
+"id":3,
+"name":"Miniclip",
+"category":"casual",
+"description":"Global casual gaming platform featuring a wide range of multiplayer and single player games including sports, arcade and puzzle based experiences for all users.",
+"url":"https://www.miniclip.com"
+},
+{
+"id":4,
+"name":"Kizi",
+"category":"casual",
+"description":"Kids friendly gaming portal offering simple and fun web based games including puzzles, adventures and educational titles designed for younger audiences.",
+"url":"https://kizi.com"
+},
+{
+"id":5,
+"name":"Addicting Games",
+"category":"casual",
+"description":"A long running gaming website offering addictive browser games including strategy, action and logic based experiences suitable for casual gaming sessions.",
+"url":"https://www.addictinggames.com"
+},
+{
+"id":6,
+"name":"Armor Games",
+"category":"casual",
+"description":"Flash era inspired browser gaming platform now hosting modern HTML5 games including tower defense, adventure and indie style games for casual players.",
+"url":"https://armorgames.com"
+},
+{
+"id":7,
+"name":"GamePix",
+"category":"casual",
+"description":"Free online gaming portal providing instant access to HTML5 games optimized for desktop and mobile devices across multiple genres and categories.",
+"url":"https://www.gamepix.com"
+},
+{
+"id":8,
+"name":"Y8 Games",
+"category":"casual",
+"description":"Massive online game collection offering multiplayer games, arcade classics and user generated content with browser based accessibility and community features.",
+"url":"https://www.y8.com"
+},
+{
+"id":9,
+"name":"Kongregate",
+"category":"casual",
+"description":"Online gaming platform hosting indie and casual games with achievement systems, leaderboards and community engagement features for players worldwide.",
+"url":"https://www.kongregate.com"
+},
+{
+"id":10,
+"name":"Pogo",
+"category":"casual",
+"description":"Casual gaming platform offering card games, board games and puzzle experiences designed for relaxed gameplay and entertainment.",
+"url":"https://www.pogo.com"
+},
+
+{
+"id":11,
+"name":"ClassicReload",
+"category":"arcade",
+"description":"Retro gaming website offering classic DOS and arcade games playable directly in browser preserving nostalgic gaming experiences from earlier generations.",
+"url":"https://classicreload.com"
+},
+{
+"id":12,
+"name":"RetroGames",
+"category":"arcade",
+"description":"Platform providing access to classic arcade and retro games with emulation support allowing users to experience vintage gaming directly online.",
+"url":"https://www.retrogames.cc"
+},
+{
+"id":13,
+"name":"Internet Arcade",
+"category":"arcade",
+"description":"Digital archive of classic arcade games allowing users to play historical titles in browser while preserving gaming history and culture.",
+"url":"https://archive.org/details/internetarcade"
+},
+{
+"id":14,
+"name":"Arcade Spot",
+"category":"arcade",
+"description":"Website featuring a collection of retro arcade games and classic titles playable online including popular console and handheld games.",
+"url":"https://arcadespot.com"
+},
+{
+"id":15,
+"name":"PlayRetroGames",
+"category":"arcade",
+"description":"Retro gaming platform providing access to classic video games from multiple consoles playable directly within modern browsers.",
+"url":"https://www.playretrogames.com"
+},
+
+{
+"id":16,
+"name":"FACEIT",
+"category":"esports",
+"description":"Competitive gaming platform offering ranked matches, tournaments and skill based matchmaking for popular multiplayer games like CS GO and Dota.",
+"url":"https://www.faceit.com"
+},
+{
+"id":17,
+"name":"Battlefy",
+"category":"esports",
+"description":"eSports tournament management platform enabling players to participate in competitions, track brackets and engage in organized gaming events.",
+"url":"https://battlefy.com"
+},
+{
+"id":18,
+"name":"Toornament",
+"category":"esports",
+"description":"Professional tournament platform supporting organizers and players with structured competitions, brackets and leaderboard systems.",
+"url":"https://www.toornament.com"
+},
+{
+"id":19,
+"name":"Challengermode",
+"category":"esports",
+"description":"Gaming competition platform offering automated tournaments, matchmaking and skill ranking systems for competitive players.",
+"url":"https://www.challengermode.com"
+},
+{
+"id":20,
+"name":"Gamers Club",
+"category":"esports",
+"description":"Competitive gaming network providing ranked gameplay, training tools and community engagement for serious gamers.",
+"url":"https://gamersclub.com.br"
+},
+
+{
+"id":21,
+"name":"ESL Play",
+"category":"tournaments",
+"description":"Global eSports tournament platform hosting competitive gaming events across multiple titles with structured leagues and prize competitions.",
+"url":"https://play.eslgaming.com"
+},
+{
+"id":22,
+"name":"Game.tv",
+"category":"tournaments",
+"description":"Mobile focused tournament platform allowing players to participate in competitions, earn rewards and engage in gaming communities.",
+"url":"https://game.tv"
+},
+{
+"id":23,
+"name":"Smash.gg",
+"category":"tournaments",
+"description":"Tournament hosting platform supporting competitive gaming events with registration systems, brackets and live match tracking.",
+"url":"https://www.start.gg"
+},
+{
+"id":24,
+"name":"Repeat.gg",
+"category":"tournaments",
+"description":"Skill based tournament platform offering competitive challenges and reward based gaming competitions for players worldwide.",
+"url":"https://repeat.gg"
+},
+{
+"id":25,
+"name":"Z League",
+"category":"tournaments",
+"description":"Competitive gaming platform offering skill based tournaments and performance based prize systems for multiple game titles.",
+"url":"https://www.zleague.gg"
+},
+
+{
+"id":26,
+"name":"Dream11",
+"category":"fantasy",
+"description":"Fantasy sports platform allowing users to create teams, compete in leagues and earn rewards based on real match performances.",
+"url":"https://www.dream11.com"
+},
+{
+"id":27,
+"name":"MPL",
+"category":"fantasy",
+"description":"Mobile gaming and fantasy platform offering competitive skill based games and tournaments with real rewards and leaderboard systems.",
+"url":"https://www.mpl.live"
+},
+{
+"id":28,
+"name":"My11Circle",
+"category":"fantasy",
+"description":"Fantasy cricket platform enabling users to build teams and compete in contests based on live match performances.",
+"url":"https://www.my11circle.com"
+},
+{
+"id":29,
+"name":"FanFight",
+"category":"fantasy",
+"description":"Fantasy sports application providing real time contests, team creation and competitive gaming opportunities for sports enthusiasts.",
+"url":"https://www.fanfight.com"
+},
+{
+"id":30,
+"name":"Vision11",
+"category":"fantasy",
+"description":"Fantasy sports gaming platform offering contests, leaderboards and real time gameplay based on sports performance analytics.",
+"url":"https://vision11.in"
+},
